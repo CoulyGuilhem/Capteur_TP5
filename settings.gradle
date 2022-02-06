@@ -1,0 +1,2 @@
+rootProject.name = "Capteur_TP5"
+include ':app'
